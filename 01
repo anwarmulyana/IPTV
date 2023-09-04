@@ -2,6 +2,120 @@
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.pngkey.com/png/full/107-1070871_tvn-movies-film.png" audio-track="eng" shift="7" subtitles="ind" tvg-country="ID" size="Small", TVN Movies
 http://210.210.155.35/dr9445/h/h21/01.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/KIX_logo.svg" audio-track="eng" shift="7" aspect-ratio="16:9" subtitles="ind" tvg-country="ID" size="Small", KIX+
+http://210.210.155.35/dr9445/h/h07/01.m3u8
+#EXTINF:0 type="stream" channelId="1286" audio-track="eng" shift="7" aspect-ratio="16:9" subtitles="ind" tvg-country="ID" size="Small", Thrill
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Cineworld.svg/1200px-Cineworld.svg.png" audio-track="eng" shift="7" aspect-ratio="16:9" subtitles="ind" tvg-country="ID" size="Small", Cinema World
+http://210.210.155.35/dr9445/h/h04/01.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://tvmalaysia.cc:80/images/ddff30204a1aaa452ae469bbbd33523a.png" shift="7" subtitles="ind" tvg-country="ID" size="Small", HITS
+http://210.210.155.35/dr9445/h/h37/01.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://2.bp.blogspot.com/-57Lrt0ausB8/XebmrHEkgzI/AAAAAAAAo8k/jGS34O65oikNfgaSsR6qhAup9XfcmbjwQCLcBGAsYHQ/s1600/my-cinema-tv-channel-logo.png" audio-track="eng" shift="7" aspect-ratio="16:9" subtitles="ind" tvg-country="ID" size="Small", My Cinema
+http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png", My Cinema EU
+http://210.210.155.35/uq2663/h/h18/01.m3u8
+#EXTINF:0 type="stream" channelId="1573" logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" audio-track="eng" shift="7" subtitles="ind" tvg-country="ID" size="Small", AXN
+http://210.210.155.35/dr9445/h/h141/01.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" audio-track="eng" shift="7" subtitles="http://210.210.155.35/dr9445/h/h16/01.m3u8" tvg-country="ID" size="Small", Blue Ant
+http://210.210.155.35/dr9445/h/h16/01.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://dev.firstmedia.com:8443/files/images/BAM-Extreme-LOGO-B_RGB.png" audio-track="eng" shift="7" subtitles="ind" tvg-country="ID" size="Small", Blue Ant Extreme
+http://210.210.155.35/dr9445/h/h15/01.m3u8
+#EXTINF:0 type="stream" channelId="2344" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" subtitles="http://210.210.155.35/dr9445/h/h20/01.m3u8" tvg-country="ID" size="Small", TVN
+http://210.210.155.35/dr9445/h/h20/01.m3u8
+#EXTINF:0 type="stream" channelId="883" logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" audio-track="ENG" shift="7" subtitles="IND" tvg-country="ID" size="Small", K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sony_One.svg" audio-track="eng" shift="7" subtitles="ind" tvg-country="ID" size="Small", al-Jazeera
+http://210.210.155.35/uq2663/h/h143/01.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Sony_gem_asia.png" audio-track="eng" shift="7" subtitles="ind" tvg-country="ID" size="Small", Sony GEM
+http://210.210.155.35/uq2663/h/h19/01.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.pngkit.com/png/full/306-3060218_aniplus-aniplus-logo-png.png" audio-track="eng" shift="7" subtitles="ind" tvg-country="ID" size="Small", Aniplus
+http://210.210.155.35/dr9445/h/h02/index.m3u8
+#EXTINF:0 type="stream" channelId="4006", CGTN Documentary
+http://210.210.155.35/qwr9ew/s/s20/01.m3u8
+#EXTINF:0 type="stream" channelId="367" audio-track="eng" shift="7" subtitles="ind" tvg-country="ID" size="Small", Channel News Asia
+http://210.210.155.35/uq2663/h/h29/01.m3u8
+#EXTINF:0 type="stream" channelId="397", NHK World
+http://210.210.155.35/uq2663/h/h23/01.m3u8
+#EXTINF:0 type="stream" channelId="119", Bloomberg
+http://210.210.155.35/dr9445/h/h03/01.m3u8
+#EXTINF:0 type="stream" channelId="1055", TRT World
+http://210.210.155.35/uq2663/h/h156/S4/mnf.m3u8
+#EXTINF:0 type="stream" channelId="-1", Wion
+http://210.210.155.35/uq2663/h/h91/S4/mnf.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.tvislam.id/wp-content/uploads/2019/08/logo-rodjatv-1-1.png", Rodja TV
+http://210.210.155.35/qwr9ew/s/s14/01.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8b/Cnn.svg/201px-Cnn.svg.png", CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" aspect-ratio="16:9" subtitles="https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8" size="Small", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/en/e/e7/BeritaSatu.png", Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/2/22/MetroTV_2000.svg", Metro TV
+http://210.210.155.35/uq2663/h/h12/01.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png", SCTV
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/800px-Indosiar_2015.svg.png", Indosiar
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.pinimg.com/originals/52/77/53/52775355def5c26bc2e23a2d911265df.png", NET.
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+#EXTINF:0 type="stream" channelId="1226" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1024px-TVRILogo2019.svg.png", TVRI
+http://210.210.155.35/qwr9ew/s/s11/01.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://pngimage.net/wp-content/uploads/2018/06/kompas-tv-png-1.png", Kompas TV
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+#EXTINF:0 type="stream" channelId="4564" logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/1200px-TvOne_Logo%282011%29.svg.png", TV One
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/ElshintaTV2019.png", Elshinta TV
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+#EXTINF:0 type="stream" channelId="4620", Eleven Sports1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:0 type="stream" channelId="4620", Eleven Sports2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:0 type="stream" channelId="2254", Nat Geo People
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
+#EXTINF:0 type="stream" channelId="164", Nat Geo Wild
+http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
+#EXTINF:0 type="stream" channelId="1455", History
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=history&bandwidth=default&sync=0
+#EXTINF:0 type="stream" channelId="56", Nat Geo
+http://topwin-tv.my.id/2/master.m3u8?id=natgeo
+#EXTINF:0 type="stream" channelId="1862", Fox Movies
+https://s.id/iduntv-foxmov?output=hls&bandwidth=default?catchplay=default
+#EXTINF:0 type="stream" channelId="208", Fox HD
+https://s.id/iduntv-foxhd
+#EXTINF:0 type="stream" channelId="1572", Fox Crime
+https://s.id/iduntv-foxcr
+#EXTINF:0 type="stream" channelId="-1", Fox Action Movies
+https://s.id/iduntv-foactmov
+#EXTINF:0 type="stream" channelId="4848", Setanta Sports1 (Serie A)
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:0 type="stream" channelId="280" logo="http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8", FashionTV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 type="stream" channelId="2051" subtitles="IN", Smithsonian
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="2035", Love Nature
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="1592", beIN Sport2
+https://s.id/iduntv-beins2
+#EXTINF:0 type="stream" channelId="4460", Sky Sports Football
+http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1176", Sky Sports Premier League
+http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1591", beIN Sports1
+http://hbox.cdnss.me:80/live/bestcs/bestcs/7946.m3u8
+#EXTINF:0 type="stream" channelId="1592", beIN Sports2
+http://hbox.cdnss.me:80/live/bestcs/bestcs/7948.m3u8
+#EXTINF:0 type="stream" channelId="1593", beIN Sports3
+http://hbox.cdnss.me:80/live/bestcs/bestcs/7950.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.postimg.cc/j5bNf39C/trans7.png", Trans7
+http://210.210.155.35/uq2663/h/h11/01.m3u8
+#EXTINF:0 type="stream" channelId="1330", HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVRI Sport HD
+http://210.210.155.35/qwr9ew/s/s107/01.m3u8
+#EXTINF:0 type="stream" channelId="1455", History
+http://topwin-tv.my.id/2/master.m3u8?id=history
+
+------------------------------------------------------------------------------------------------
 
 #EXTINF:-1,beIN SPORTS 1 PREMIUM SD
 http://uniontvs.com:8080/27158387gvse/480075567tcx/125007
