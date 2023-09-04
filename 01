@@ -23,6 +23,9 @@ http://210.210.155.35/dr9445/h/h20/01.m3u8
 #EXTINF:0 type="stream" channelId="883" logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" audio-track="ENG" shift="7" subtitles="IND" tvg-country="ID" size="Small", K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19510811_ico.png?ts=1655233020" group-title="IPTV",AXN
+http://203.77.246.50:5000/udp/239.1.2.142:5000
+
 #EXTINF:0 type="stream" channelId="4006", CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:0 type="stream" channelId="367" audio-track="eng" shift="7" subtitles="ind" tvg-country="ID" size="Small", Channel News Asia
