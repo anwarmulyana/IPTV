@@ -26,6 +26,9 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19510811_ico.png?ts=1655233020" group-title="IPTV",AXN
 https://anevia115.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zF4t5v7/paramounth.jpg" group-title="PREMIUM",Paramount Network 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8 
+
 #EXTINF:0 type="stream" channelId="4006", CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:0 type="stream" channelId="367" audio-track="eng" shift="7" subtitles="ind" tvg-country="ID" size="Small", Channel News Asia
