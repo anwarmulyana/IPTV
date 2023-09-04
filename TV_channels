@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.pngkey.com/png/full/107-1070871_tvn-movies-film.png" audio-track="eng" shift="7" subtitles="ind" tvg-country="ID" size="Small", TVN Movies
+http://210.210.155.35/dr9445/h/h21/01.m3u8
+
 #EXTINF:-1,beIN SPORTS 1 PREMIUM SD
 http://uniontvs.com:8080/27158387gvse/480075567tcx/125007
 #EXTINF:-1,beIN SPORTS 2 PREMIUM SD
