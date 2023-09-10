@@ -17,9 +17,9 @@ http://210.210.155.35/uq2663/h/h18/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jRqR9YJ/mca.png", My Cinema Asia 
 http://210.210.155.35/session/eb529bee-b25a-11ec-9f65-b82a72d63267/uq2663/h/h193/index.m3u8?app_type=web&amp;userid=50n13N0v14nd1&amp;tkn=829341hrjhaq0q30q&amp;chname=My_Cinema_Asia 
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" audio-track="eng" shift="7" subtitles="http://210.210.155.35/dr9445/h/h16/01.m3u8" tvg-country="ID" size="Small", Blue Ant
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" audio-track="eng" shift="7" subtitles="http://210.210.155.35/dr9445/h/h16/01.m3u8" tvg-country="ID" size="Small", Rock Entertainment
 http://210.210.155.35/dr9445/h/h16/01.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://dev.firstmedia.com:8443/files/images/BAM-Extreme-LOGO-B_RGB.png" audio-track="eng" shift="7" subtitles="ind" tvg-country="ID" size="Small", Blue Ant Extreme
+#EXTINF:0 type="stream" channelId="-1" logo="https://dev.firstmedia.com:8443/files/images/BAM-Extreme-LOGO-B_RGB.png" audio-track="eng" shift="7" subtitles="ind" tvg-country="ID" size="Small", Rock Extreme
 http://210.210.155.35/dr9445/h/h15/01.m3u8
 #EXTINF:0 type="stream" channelId="2344" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" subtitles="http://210.210.155.35/dr9445/h/h20/01.m3u8" tvg-country="ID" size="Small", TVN
 http://210.210.155.35/dr9445/h/h20/01.m3u8
